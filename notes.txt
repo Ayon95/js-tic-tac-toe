@@ -1,0 +1,9 @@
+
+- players take turns to mark cells
+- when a player matches three consecutive cells, that player wins
+
+- use an array to represent the game board
+- attach a click handler to every cell
+- update the game board after every click
+- check win condition after every click
+- switch player if there is no winner
